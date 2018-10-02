@@ -4,4 +4,4 @@ def test():
 ans = 12345 * 6789
 
 print(callable(test), callable(ans))
-# True False
+#True False
