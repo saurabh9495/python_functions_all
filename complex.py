@@ -1,0 +1,6 @@
+a = complex(1, -2)
+b = complex(3)
+c = complex()
+d = complex('5-6j')
+print(a, b, c, d)
+# (1-2j) (3+0j) 0j (5-6j)
